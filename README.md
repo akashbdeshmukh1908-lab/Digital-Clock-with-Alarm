@@ -1,9 +1,8 @@
 # Digital-Clock-with-Alarm
-# Digital Clock with Alarm
 
 ## Intern Details
 
-
+Intern ID- CITS2146 Full Name - Akash Bharatrao Deshmukh No. of Weeks - 4 Weeks Project Name - Digital-Clock-with-Alarm.
 
 ## Project Scope
 
